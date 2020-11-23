@@ -24,7 +24,9 @@ body {
   text-align: justify;
 }
 .home-container .content .second-description {
+  margin: 12px;
   margin-right: 100px;
+  align-self: flex-start;
 }
 
 .home-container .content .list {

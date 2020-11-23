@@ -13,7 +13,7 @@ function currentSlide(n) {
 
 function showSlides(n) {
   var familyDescription = [
-    'Mi familia es muy unida, nos gusta viajar, hacer comidas con amigos y es bonita',
+    'Mi familia es muy unida, nos gusta viajar y siempre tenemos excusas para hacer asados',
     'Mi papi es el mejor haciendo y comiendo asados',
     'Mi mami no sabe leer mapas, pero gracias a eso conocemos muchos lugares nuevos',
     'Mi hermana Vicha es extremadamente obsesiva con sus estudios y tiene un ego inalcanzable',
